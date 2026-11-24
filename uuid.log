@@ -26,6 +26,7 @@
 594a64f6-c444-4a07-94da-57c74b6bc9c3 mstlaure@rorqual3:/lustre10/scratch/mstlaure/tests/mariostars.fmriprep timestamp=1795195266s
 5ff968fe-74fb-4f43-ac5f-ca077252edfb bpinsard@bc11316.int.ets1.calculquebec.ca:/localscratch/bpinsard.37609809.0/fmriprep_studycneuromod.mariostars_sub02_ses001.job timestamp=1684971945.755700661s
 607e6141-cc8c-464d-98ec-e2b40804cd78 bpinsard@bc11240.int.ets1.calculquebec.ca:/localscratch/bpinsard.37609839.0/fmriprep_studycneuromod.mariostars_sub05_ses005.job timestamp=1684982371.447353848s
+62b44750-58e4-4987-be07-44229c0d8550 mstlaure@rorqual1:/lustre10/scratch/mstlaure/tests/mariostars.timeseries/sourcedata/mariostars.fmriprep timestamp=1795492859s
 643d309b-ff14-424b-a5cf-90d8318bb6ab bpinsard@bc11313.int.ets1.calculquebec.ca:/localscratch/bpinsard.37609808.0/fmriprep_studycneuromod.mariostars_sub01_ses007.job timestamp=1684972036.345385148s
 66573232-ca0b-43d0-a29a-66b55ea6831b bpinsard@bc12058.int.ets1.calculquebec.ca:/localscratch/bpinsard.37609830.0/fmriprep_studycneuromod.mariostars_sub03_ses009.job timestamp=1684980311.397507854s
 6932c906-8606-4431-9140-2bf47dcf2ae9 bpinsard@bc11238.int.ets1.calculquebec.ca:/localscratch/bpinsard.37609811.0/fmriprep_studycneuromod.mariostars_sub02_ses003.job timestamp=1684972144.791717984s
