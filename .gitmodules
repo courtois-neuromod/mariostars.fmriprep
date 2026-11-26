@@ -1,0 +1,20 @@
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	url = https://github.com/courtois-neuromod/templateflow/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+	datalad-url = "https://github.com/courtois-neuromod/templateflow/templateflow"
+[submodule "containers"]
+	path = containers
+	url = https://github.com/ReproNim/containers
+	datalad-id = b02e63c2-62c1-11e9-82b0-52540040489c
+	datalad-url = "https://github.com/ReproNim/containers"
+[submodule "sourcedata/smriprep"]
+	path = sourcedata/smriprep
+	url = https://github.com/courtois-neuromod/anat.smriprep
+	datalad-id = f3ef9683-0a58-4d2b-b4eb-d33d8fc3fd2b
+	datalad-url = "https://github.com/courtois-neuromod/anat.smriprep"
+[submodule "sourcedata/cneuromod.mariostars"]
+	path = sourcedata/cneuromod.mariostars
+	url = https://github.com/courtois-neuromod/mariostars
+	datalad-id = 76c46634-4378-4ad1-b613-9825129c7d66
+	datalad-url = "https://github.com/courtois-neuromod/mariostars"
